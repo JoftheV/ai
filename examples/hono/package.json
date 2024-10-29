@@ -7,7 +7,7 @@
     "@hono/node-server": "1.12.2",
     "ai": "latest",
     "dotenv": "16.4.5",
-    "hono": "4.5.11"
+    "hono": "4.6.5"
   },
   "scripts": {
     "type-check": "tsc --noEmit"
