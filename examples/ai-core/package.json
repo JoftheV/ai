@@ -16,7 +16,7 @@
     "@opentelemetry/sdk-trace-node": "1.25.0",
     "ai": "latest",
     "dotenv": "16.4.5",
-    "mathjs": "12.4.2",
+    "mathjs": "15.2.0",
     "zod": "3.23.8",
     "zod-to-json-schema": "3.23.2"
   },
